@@ -1,4 +1,9 @@
 // Assignment Code
+var specialcharecter = ["!","@"]
+var numbercharecter = ["1","2"]
+var lowercharecter = ["a","b"]
+var uppercharecter = ["A","B"]
+
 var generateBtn = document.querySelector("#generate");
 
 // Write password to the #password input
